@@ -1,0 +1,10 @@
+{
+  "name": "ChoomReplacer",
+  "description": "Replaces bro with choom and dumbass with gonk",
+  "authors": [
+    {
+      "name": "Kidastral"
+    }
+  ],
+  "main": "index.js"
+}
